@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00150.jpg</filename>
+	<path>D:\Desktop root\Files &amp; Progs\My Projects\Python\NN_chicken_detection\dataset\images\00150.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>750</xmin>
+			<ymin>731</ymin>
+			<xmax>2100</xmax>
+			<ymax>2409</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chicken</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1781</xmin>
+			<ymin>762</ymin>
+			<xmax>4000</xmax>
+			<ymax>2399</ymax>
+		</bndbox>
+	</object>
+</annotation>
